@@ -1,4 +1,4 @@
-# Fruit-Fly-AI-DOCUMENTATION
+# Fruit Fly AI DOCUMENTATION
 This is the documentation of the app that I am building.
 
 ## Summary of the app: 
